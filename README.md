@@ -5,3 +5,4 @@ Are you tired of spending hours selecting the perfect color for your website or 
 With our simple yet effective code, you'll be able to easily implement this tool into your projects and streamline your color selection process. Whether you're a beginner or an experienced developer, this tutorial is perfect for anyone looking to take their web design skills to the next level. So what are you waiting for? Tune in now to start creating your own RGB color generator!
 
 [Life Preview](https://tazmah.github.io/rgb-color-picker/)
+[<img src="Thumbnail.png"/>](https://www.youtube.com/embed/qCiKH6HUz5E "RGB Color Generator")
